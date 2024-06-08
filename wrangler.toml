@@ -1,7 +1,7 @@
 name = "orange-meets"
 # https://developers.cloudflare.com/workers/platform/compatibility-dates
 compatibility_date = "2022-04-05"
-account_id = "a67e14daa5f8dceeb91fe5449ba496eb"
+account_id = "d71904723e6d118e50165cf7145c4790"
 main = "./build/index.js"
 
 [site]
@@ -12,7 +12,7 @@ main = "./build/index.js"
   globs = ["**/*.js"]
 
 [vars]
-CALLS_APP_ID = "f0ea263009299383d09d44b9fad5316c"
+CALLS_APP_ID = "bf6b358f12766c81f5cfaf47f435c5fe"
 
 [durable_objects]
  bindings = [
